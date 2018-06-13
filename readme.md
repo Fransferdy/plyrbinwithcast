@@ -1,10 +1,10 @@
-#This is a distribution of sampotts/plyr with a working chrome cast feature (by guruparas), built with the most recent plyr up to April 30th 2018.
+# This is a distribution of sampotts/plyr with a working chrome cast feature (by guruparas), built with the most recent plyr up to April 30th 2018.
 
 https://github.com/sampotts/plyr
 https://github.com/gurupras/plyr/tree/chromecast
 
 
-#Sample Usage:
+# Sample Usage:
 
 ```javascript
 
